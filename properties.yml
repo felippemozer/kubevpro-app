@@ -1,3 +1,3 @@
-volumeId: vol-0aeafc83a6ad8e773
+volumeId: vol-0d09b62ce7d327fcf
 vprofileappDockerImage: felippemozer/vprofileapp:latest
 vprofiledbDockerImage: felippemozer/vprofiledb:latest
