@@ -1,0 +1,5 @@
+{
+    "volumeId": "vol-0ff7762317c9a968d",
+    "vprofileappDockerImage": "felippemozer/vprofileapp:latest",
+    "vprofiledbDockerImage": "felippemozer/vprofiledb:latest"
+}
